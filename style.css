@@ -156,3 +156,37 @@ li a:hover {
   margin: 0 auto;
   margin-top: 10px;
 }
+
+
+main{
+				background-color:black;
+				width:100%;
+				margin-top: 100px;
+				border: solid;
+				height: 1200px;
+			}
+.left{
+	  background-color:#D24646;
+	  
+	
+	
+}
+.right{
+	background-color:#D24646;
+
+}
+
+.bottom{
+	background-color:#D24646;
+}
+
+.BottomPic{
+	background-color:#000000;
+	margin-top:700px;
+
+}
+.hidden{
+			display:none;
+		
+		}
+
