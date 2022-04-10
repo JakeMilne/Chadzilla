@@ -53,3 +53,11 @@ function Originals(MyImage){
 function Winner(MyImage){
 	MyImage.src = "Winner.jpg";
 }
+function mystery(MyImage)
+		{
+		MyImage.src = "images/mystery.jpg";
+		}
+
+function regan(MyImage){
+	MyImage.src = "images/regan.jpg";
+}
