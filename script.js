@@ -33,25 +33,25 @@ function hide(){
 
 function MouseClick(MyImage)
 		{
-		MyImage.src = "Win.jpg";
+		MyImage.src = "images/Win.jpg";
 		
 		}
 
 function RangersPic(MyImage){
-	MyImage.src = "Rangers.jpg";
+	MyImage.src = "images/Rangers.jpg";
 }
 function CelticPic(MyImage){
-	MyImage.src = "Celtics.webp"
+	MyImage.src = "images/Celtics.webp"
 }
 function Original(MyImage){
-	MyImage.src = "FC.jpg";
+	MyImage.src = "images/FC.jpg";
 }
 
 function Originals(MyImage){
-	MyImage.src = "c.jpg";
+	MyImage.src = "images/c.jpg";
 }
 function Winner(MyImage){
-	MyImage.src = "Winner.jpg";
+	MyImage.src = "images/Winner.jpg";
 }
 function mystery(MyImage)
 		{
