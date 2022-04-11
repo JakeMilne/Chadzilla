@@ -178,7 +178,29 @@ main{
 
 }
 .hidden{
-			display:none;
+	display:none;
 		
-		}
+}
+  .center{
 
+    text-align: center;
+
+  }
+
+  .leftImage{
+
+    float:left;
+    padding-left:15px;
+    padding-right: 15px;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .rightImage{
+
+    float:right;
+    padding-right:15px;
+    padding-left: 15px;
+    font-size: 25px;
+    text-align: center;
+  }
